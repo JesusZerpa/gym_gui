@@ -1,0 +1,31 @@
+{
+	"defaults":{
+		"colours":{
+			"normal_bg": "#282828",
+			"dark_bg":"#ff2d2d"
+		}
+	},
+	"window":{
+		"misc":{
+			"border_width":"0",
+			"shadow_width":"0"
+		}
+	},
+	"#panel_left":{
+		"colours":{
+			"normal_bg":"#ffffff",
+			"dark_bg":"#000000"
+		},
+		"misc":{
+			"border_width":"0",
+			"shadow_width":"0",
+			"disabled_border":false
+		}
+	},
+	"#search":{
+		"colours":{
+			"normal_bg":"#ffffff",
+			"dark_bg":"#ffffff"
+		}
+	}
+}
